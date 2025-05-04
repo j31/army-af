@@ -17,6 +17,7 @@ export default function App() {
   🚀 Try Army-AF/Inventory →
 </a>
 
+<p></p>
       <div className="card">
         <h2>The details...</h2>
         <ul>

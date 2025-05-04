@@ -10,6 +10,13 @@ export default function App() {
         Tap, click, done.
       </p>
 
+      <a
+  href="https://armyaf-d79fl6xqr-davids-projects-cb04588c.vercel.app/"
+  className="button"
+>
+  🚀 Try Army-AF/Inventory →
+</a>
+
       <div className="card">
         <h2>The details...</h2>
         <ul>
@@ -20,12 +27,7 @@ export default function App() {
         </ul>
       </div>
 
-      <a
-  href="https://armyaf-d79fl6xqr-davids-projects-cb04588c.vercel.app/"
-  className="button"
->
-  🚀 Try Army-AF/Inventory →
-</a>
+
 
       <footer>
         &copy; 2025 Army AF Apps — Stronger apps are harder to kill.

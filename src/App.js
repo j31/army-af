@@ -14,17 +14,11 @@ export default function App() {
         Tap, click, done.
       </p> */}
 
-      <a
-  href="https://armyaf.vercel.app/"
-  className="button"
->
-  ✪ &nbsp;&nbsp;Try Army AF  &nbsp;&nbsp;|&nbsp;&nbsp;<b>Inventory</b>  →
-</a>
 
 <p></p><p></p>
 
       <div className="card">
-        <h2>The details...</h2>
+        <h2>Army AF - Inventory</h2>
         <ul>
         <li><b>Easy win</b>.&nbsp;  Faster inventories, fewer errors.</li>
         <li><b>Command-aligned</b>.&nbsp;  Seamlessly fits SOPs and your existing workflows.</li>
@@ -32,9 +26,14 @@ export default function App() {
         <li><b>Field-ready</b>.&nbsp;  Mobile-first and offline-capable.</li>
         <li><b>Army AF</b>.&nbsp;  Designed by soldiers, for soldiers.</li>
         </ul>
+        <br />
+        <h2>
+          <a href="https://armyaf.vercel.app/" className="button">
+          ✪ &nbsp;&nbsp;Try Army AF  &nbsp;&nbsp;|&nbsp;&nbsp;<b>Inventory</b>  →
+          </a>
+        </h2>
       </div>
 
-     
 
       <footer>
         &copy; 2025 Army AF Apps — Stronger apps are harder to kill.&trade;

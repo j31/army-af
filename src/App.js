@@ -11,7 +11,7 @@ export default function App() {
       </p>
 
       <a
-  href="https://armyaf-d79fl6xqr-davids-projects-cb04588c.vercel.app/"
+  href="https://armyaf.vercel.app/"
   className="button"
 >
   🚀 Try Army-AF/Inventory →

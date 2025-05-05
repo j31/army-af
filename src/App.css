@@ -68,3 +68,7 @@ footer {
   font-size: 0.9rem;
   color: #777;
 }
+
+li {
+  margin-bottom: 0.5em;
+}

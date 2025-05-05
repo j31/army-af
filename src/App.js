@@ -4,11 +4,15 @@ import logo from './ArmyAF.png'; // Put your image in /src folder
 export default function App() {
   return (
     <div className="container">
+      
       <img src={logo} alt="Army AF Apps Logo" className="logo" />
+      
       <h1>Tap, click, done.</h1>
+      <br /><br /> 
+      {/* <h1>Army AF Apps</h1>
       <p className="tagline">
-        Army AF Apps.
-      </p>
+        Tap, click, done.
+      </p> */}
 
       <a
   href="https://armyaf.vercel.app/"
@@ -29,6 +33,8 @@ export default function App() {
         <li><b>Army AF</b>.&nbsp;  Designed by soldiers, for soldiers.</li>
         </ul>
       </div>
+
+     
 
       <footer>
         &copy; 2025 Army AF Apps — Stronger apps are harder to kill.&trade;
